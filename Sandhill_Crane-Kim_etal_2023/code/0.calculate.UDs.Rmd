@@ -27,7 +27,6 @@ library(lubridate)
 
 # spatial analysis 
 library(raster)
-library(sp)
 library(sf)
 library(rgdal)
 
